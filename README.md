@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution ](https://www.frontendmentor.io/profile/saminstein/solutions)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github live Site](https://saminstein.github.io/Stats-PREVIEW-card-/)
 
 ## My process
 
@@ -53,7 +53,7 @@ In this project, i learnt how to use the picture tag and also how to use flexbox
 
 ### Useful resources
 
-- [W3 Schools](https://www.w3schools.com/css/css3_flexbox_responsive.asp) - This helped me to understand how flexbo works. I really liked this pattern and will use it going forward.
+- [W3 Schools](https://www.w3schools.com/css/css3_flexbox_responsive.asp) - This helped me to understand how flexbox works. I really liked this pattern and will use it going forward.
 
 
 ## Author
