@@ -1,0 +1,64 @@
+@media only screen and (min-width: 800px) {
+    body {
+        display: flex;        
+        flex-direction: row;
+    }
+    
+    
+    .card {
+        width: 41rem; /*40.5rem*/
+        height: 18rem; /*17*/
+    }
+    
+      
+    .images {
+        float: right;
+        width: 50%;
+        height: 100%;
+        border-top-right-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+    }
+    
+   
+    .info {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 1.25rem;
+        font-size: 0.625rem;
+    }
+    
+    
+    p {
+        margin-left: -0.75rem;
+        
+    }
+    
+       
+    .stats-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 0.625rem;
+        margin-top: -1.875rem;
+    }
+    
+    
+     h3 {
+         font-size: 0.875rem;
+     }
+     
+     
+     .title {
+        font-size: 0.625rem;
+    }
+    
+       
+     img {
+        width: 50%;
+        float: right;
+        height: 100%;
+        border-top-right-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+    }    
+}
