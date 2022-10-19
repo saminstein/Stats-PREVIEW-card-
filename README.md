@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Designs/desktop-design.jpg)
+![](desktop-design.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/saminstein/solutions)
+- Solution URL: [Frontend Mentor Solution ](https://www.frontendmentor.io/profile/saminstein/solutions)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -53,7 +53,7 @@ In this project, i learnt how to use the picture tag and also how to use flexbox
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css3_flexbox_responsive.asp) - This helped me to understand how flexbo works. I really liked this pattern and will use it going forward.
+- [W3 Schools](https://www.w3schools.com/css/css3_flexbox_responsive.asp) - This helped me to understand how flexbo works. I really liked this pattern and will use it going forward.
 
 
 ## Author
